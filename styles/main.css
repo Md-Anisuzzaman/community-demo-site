@@ -1,0 +1,13 @@
+.successful_events {
+  img {
+    max-height: 166px;
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
+footer{
+  height: 220px;
+  width:100% ;
+}
+
