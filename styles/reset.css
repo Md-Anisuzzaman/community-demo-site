@@ -1,4 +1,4 @@
-/*============================================================================================
+/* ============================================================================================
 	Footer Area
 ==============================================================================================*/
 .footer-top {
@@ -184,10 +184,6 @@
 
 }
 .footer-payment-policy-list li {
-  /* display: inline-block; */
-  /* margin-right: 12px;
-  padding-right: 12px;
-  position: relative; */
   list-style: none;
 }
 .footer-payment-policy-list li a {
@@ -196,16 +192,8 @@
 }
 .footer-payment-policy-list li a:hover {
   color: var(--primary-color);
-}
-/* .footer-payment-policy-list li::after {
-  position: absolute;
-  content: "";
-  width: 1px;
-  height: 14px;
-  background: #42474e;
-  right: -0.5px;
-  top: 7px;
-} */
+} 
+
 .footer-payment-policy-list li:last-child {
   margin: 0;
   padding: 0;
@@ -244,7 +232,7 @@
 }
 
 /* Responsive */
-@media only screen and (min-width: 1201px) and (max-width: 1600px) {
+ @media only screen and (min-width: 1201px) and (max-width: 1600px) {
   .footer-hotline-numbers li img {
     width: 18px;
     height: 18px;
@@ -403,8 +391,8 @@
   .copyright-text.developed-by-title {
     justify-content: center;
   }
-}
+} 
 
 /*============================================================================================
       End Footer Area
-  ==============================================================================================*/
+  ============================================================================================== */
